@@ -11,10 +11,10 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Va multumim!\n\nVa asteptam sa vizitati Romania!!"
         android:id="@+id/textView2"
         android:textColor="#F57F17"
+        android:textSize="30dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="100dp" />
